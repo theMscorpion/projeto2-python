@@ -1,6 +1,7 @@
 import random
 dias = ['segunda', 'terça', 'quarta', 'quinta', 'sexta', 'sabado', 'domingo']
-registro = [['braço', 100, 150, 'segunda'], ['perna', 100, 100, 'terça'], ['braço', 100, 150, 'quarta']]
+#registro = [['braço', 100, 150, 'segunda'], ['perna', 100, 100, 'terça'], ['braço', 100, 150, 'quarta']]
+registro = []
 dia = [] 
 
 
